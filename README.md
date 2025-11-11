@@ -44,12 +44,6 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shishir-Roka&theme=radical&hide_border=false&layout=compact)
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Shishir-Roka&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
-
----
-
 ## ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
